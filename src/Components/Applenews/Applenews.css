@@ -1,0 +1,29 @@
+    .title-wrapper{
+        font-size: 40px;
+        text-align: center;
+        font-weight: 600;
+        padding: 10px 0;
+    }
+.news-container{
+    margin: 0px 120px;
+}
+
+.news-wrapper{
+    background: #f3f2f2;
+    box-shadow: 4px 0px 13px rgba(158, 158, 158, 0.12);
+    overflow: hidden;
+    height: 450px;
+    margin: 30px 0;
+    
+}
+ .image-wrapper{
+    padding: 5px;
+}
+.newsInfoWrapper{
+    padding: 10px 20px;
+    text-align: left;
+    font-size: 0.6em;
+}
+.newsDescription{
+    padding-top: 10px;
+}
